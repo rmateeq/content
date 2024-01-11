@@ -1,5 +1,5 @@
 # This repository contains the content I created for various purposes.
-**Currently it contains content for **
+**Currently it contains content for**
 - Intro to Data Science (I2DS)
   - An undergrad course
 - AI Programming with Python
